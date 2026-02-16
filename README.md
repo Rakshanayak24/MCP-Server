@@ -15,8 +15,9 @@
 ```bash
 pip install -r requirements.txt
 python main.py
-open in broser: http://127.0.0.1:8001/docs
 ```
+- open in browser: http://127.0.0.1:8001/docs
+  
 Fill .env File with Your API 
 ```BASH
 SUPABASE_DB_URL=postgresql://postgres:XXXXXXX
