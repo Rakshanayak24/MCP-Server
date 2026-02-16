@@ -15,7 +15,7 @@
 ```bash
 pip install -r requirements.txt
 python main.py
-http://127.0.0.1:8001/docs
+open in broser: http://127.0.0.1:8001/docs
 ```
 Fill .env File with Your API 
 ```BASH
